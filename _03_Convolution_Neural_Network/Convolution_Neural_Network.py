@@ -6,7 +6,7 @@ os.system("sudo pip3 install torch")
 os.system("sudo pip3 install torchvision")
 
 import torch
-import torch.nn as nns
+import torch.nn as nn
 import torch.optim as optim
 import torchvision
 import torchvision.transforms as transforms
